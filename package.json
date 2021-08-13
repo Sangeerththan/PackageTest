@@ -1,0 +1,24 @@
+{
+  "name": "@sangeerththan/packagetest",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sangeerththan/packageTest.git"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "node"
+  ],
+  "author": "sangeerththan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sangeerththan/packageTest/issues"
+  },
+  "homepage": "https://github.com/Sangeerththan/packageTest#readme"
+}
