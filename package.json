@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Sangeerththan/packageTest/issues"
   },
-  "homepage": "https://github.com/Sangeerththan/packageTest#readme"
+  "homepage": "https://github.com/Sangeerththan/packageTest#readme",
+  "publishConfig": {
+    "@Sangeerththan:registry": "https://npm.pkg.github.com"
+  }
 }
